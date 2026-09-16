@@ -1,0 +1,9 @@
+@RULEL:CLONE_LIN_BITCOIN_NBITS:1.0.0
+@UPSTREAM="https://github.com/bitcoin/bitcoin"
+@TAG="v27.1"
+@COMMIT="1088a98f5aad080cc6cca2da174f206509fcda6c"
+@LIN_KERNEL="https://github.com/kbelludoo/lin-open/blob/cursor/linguagem-lin-e-valida-o-ab28/src/lin_bitcoin_nbits.lin"
+@C11_ORACLE="https://github.com/kbelludoo/lin-open/blob/cursor/linguagem-lin-e-valida-o-ab28/test/oracles/bitcoin_nbits_c11.c"
+@PROOFS="https://github.com/kbelludoo/lin-open/blob/cursor/linguagem-lin-e-valida-o-ab28/examples/bitcoin_nbits/"
+@PR="https://github.com/kbelludoo/lin-open/pull/116"
+@class="EXPERIMENTAL"
